@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Emadalsabri.
-- 👀 I’m interested in cyber security.
-- 🌱 I’m currently learning programming in python. 
+- 👀 I’m interested in Full Stack Developer.
+- 🌱 I’m currently learning programming in PHP. 
 - 📫 you can contact me through email: emadalsabri@gmail.com
 
 <!---
